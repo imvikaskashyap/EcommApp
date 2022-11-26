@@ -1,0 +1,30 @@
+{
+  "name": "relevel-study",
+  "version": "1.0.0",
+  "description": "ecom",
+  "main": "done",
+  "scripts": {
+    "test": "done"
+  },
+  "repository": {
+    "type": "git",
+    "url": "done"
+  },
+  "keywords": [
+    "ecom"
+  ],
+  "author": "vk",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jade": "^1.11.0",
+    "jsonwebtoken": "^8.5.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.3.3",
+    "path": "^0.12.7",
+    "sequelize": "^6.25.5"
+  }
+}
